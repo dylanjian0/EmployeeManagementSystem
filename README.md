@@ -1,4 +1,4 @@
-# EmployeeManagementSystem
+# Employee Management System
 
 - Developed an employee database tool using Python and SQL
 - Incorporated CRUD functionalities to interact with an SQLite database
